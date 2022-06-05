@@ -7,3 +7,6 @@ This project explored the art of problem-solving with the aid of visual analytic
 **Skills and Tools**
 
 TABLEAU, Data Visualization\, Dashboard Designing
+
+**Tableau Public Repository**
+https://public.tableau.com/profile/nishitha.ramesh#!/vizhome/storybookforbostoncondo/Story1?publish=yes
